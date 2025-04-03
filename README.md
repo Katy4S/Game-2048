@@ -1,6 +1,8 @@
 2048 Game
-Project Description
+
+
 The 2048 game is a sliding tile puzzle where players use arrow keys to combine tiles with the same numbers, aiming to reach the coveted 2048 tile. The game board is a 4x4 grid and supports the following functionalities:
+
 * Game Mechanics:
     * Slide tiles in four directions (left, right, up, down).
     * Merge two tiles of equal value to create a tile with double the number.
@@ -28,9 +30,9 @@ Getting Started
 Follow these steps to set up the project locally:
 1. Clone the Repository:git clone https://github.com/Katy4S/Game-2048.git
 2. cd 2048-game
-3. Install Dependencies:npm install # or yarn install
-4. Run the Project Locally:npm start # or yarn start
-5. Build for Production (Optional):npm run build # or
+3. Install Dependencies:npm install or yarn install
+4. Run the Project Locally:npm start or yarn start
+5. Build for Production (Optional):npm run build
 
 Acknowledgments
 * Thanks to the original creators of the 2048 game for the inspiration.
